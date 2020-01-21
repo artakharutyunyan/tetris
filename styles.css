@@ -1,15 +1,15 @@
 body{
-    background: gray;
+    background:#6790b6fb;
 }
 
-.board {
-    padding-top: 70px;
-    padding-bottom: 70px;
-    padding-left: 500px;
-    padding-right: 500px;
-    border: black;
-    height: 400px;
-    width: 200px;
-  }
+.tetris {
+    display: flex;
+    margin:0 auto;
+    height: 500px;
+    width: 250px;
+    background-color: black;
+    border: 2px solid white;
+    margin-top: 40px;
+}
 
   
