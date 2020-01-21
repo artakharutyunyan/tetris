@@ -1,0 +1,15 @@
+body{
+    background: gray;
+}
+
+.board {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 500px;
+    padding-right: 500px;
+    border: black;
+    height: 400px;
+    width: 200px;
+  }
+
+  
