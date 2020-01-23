@@ -1,15 +1,13 @@
 body{
-    background:#6790b6fb;
+    background:#497eaffb;
 }
 
-.tetris {
+canvas {
     display: flex;
     margin:0 auto;
     height: 500px;
     width: 250px;
-    background-color: black;
+    background-color: rgb(202, 199, 199);
     border: 2px solid white;
     margin-top: 40px;
 }
-
-  
