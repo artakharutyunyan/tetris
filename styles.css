@@ -1,13 +1,13 @@
 body{
-    background:#497eaffb;
+    background:#236eb4fb;
 }
 
 canvas {
     display: flex;
     margin:0 auto;
-    height: 500px;
-    width: 250px;
-    background-color: rgb(202, 199, 199);
+    height: 400px;
+    width: 200px;
+    background-color: rgb(173, 169, 169);
     border: 2px solid white;
-    margin-top: 40px;
+    margin-top: 75px;
 }
