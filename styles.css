@@ -15,10 +15,10 @@ body {
 .cell {
   height: 20px;
   width: 20px;
-  background-color: rgb(130, 179, 243);
+  background-color: rgb(200, 220, 245);
   flex: 1 1 auto;
 }
 
 .fill {
-  background-color: red;
+  background-color: rgb(122, 62, 62);
 }
