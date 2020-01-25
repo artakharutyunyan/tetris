@@ -148,3 +148,5 @@ const Z = [
     [1, 0, 0]
   ]
 ];
+
+let pieces = [Z, T, S, O, L, J, I];
