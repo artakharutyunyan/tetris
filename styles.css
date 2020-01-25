@@ -2,12 +2,23 @@ body {
   background: white;
 }
 
-div {
+.tetris {
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
   margin: 0 auto;
-  height: 400px;
   width: 200px;
-  background-color: rgb(130, 179, 243);
   border: 2px solid black;
   margin-top: 75px;
+}
+
+.cell {
+  height: 20px;
+  width: 20px;
+  background-color: rgb(130, 179, 243);
+  flex: 1 1 auto;
+}
+
+.fill {
+  background-color: red;
 }
